@@ -5,7 +5,6 @@ I'm passionate about technology and coding, diving deep into the realms of Backe
 - **🔭 I’m currently exploring:** Python, JavaScript, and C++
 - **🚀 My interests:** Programming, creating efficient backends, and developing intuitive mobile applications
 
-
 ## 💡 Tech Stack
 - **Languages:** Python, JavaScript, C++
 - **Frameworks:** React Native, Pyrogram, NodeJS
@@ -27,12 +26,9 @@ Feel free to reach out if you want to collaborate on a project, need help, or ju
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdullazade&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdullazade&layout=compact&theme=tokyonight)
 
-## 👥 Visitor Count
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=abdullaabdullazade.abdullaabdullazadet&style=for-the-badge)
-
-
 ## 🎮 Fun Facts
 - **Hobbies:** When I'm not coding, I enjoy playing video games, reading about new tech trends, and contributing to open-source projects.
 - **Favorite Projects:** I'm particularly proud of my projects that solve real-world problems and make a difference.
 
-
+## 👥 Visitor Count
+![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=abdullaabdullazade&style=for-the-badge)
