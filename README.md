@@ -31,4 +31,4 @@ Feel free to reach out if you want to collaborate on a project, need help, or ju
 - **Favorite Projects:** I'm particularly proud of my projects that solve real-world problems and make a difference.
 
 ## 👥 Visitor Count
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=abdullaabdullazade&style=for-the-badge)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abdullaabdullazade)
