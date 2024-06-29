@@ -31,4 +31,4 @@ Feel free to reach out if you want to collaborate on a project, need help, or ju
 - **Favorite Projects:** I'm particularly proud of my projects that solve real-world problems and make a difference.
 
 ## 👥 Visitor Count
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abdullaabdullazade)
+![Visitor Count](https://komarev.com/ghpvc/?username=abdullaabdullazade)
