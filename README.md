@@ -13,7 +13,6 @@ I'm passionate about technology and coding, diving deep into the realms of Backe
 
 ## 🌱 Learning Journey
 I'm constantly learning and keeping myself updated with the latest in tech. Currently, I'm focusing on:
-- Enhancing my proficiency in Python for backend services
 - Building dynamic mobile applications using React Native
 - Delving into C++ for high-performance computing
 
