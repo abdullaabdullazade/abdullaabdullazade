@@ -19,7 +19,7 @@ I'm constantly learning and keeping myself updated with the latest in tech. Curr
 ## 💬 Connect with Me
 Feel free to reach out if you want to collaborate on a project, need help, or just want to chat about tech:
 - **Email:** [abdulla.abdullazade.2008@gmail.com](mailto:abdulla.abdullazade.2008@gmail.com)
-- **Website:** [My Portfolio](https://metal1ninjas.github.io/abdullazade)
+- **Website:** [My Portfolio](https://abdulla-abdullazade.vercel.app/)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdullazade&show_icons=true&theme=radical)
