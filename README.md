@@ -17,8 +17,8 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 
 
 ## 👾 My play store projects
-- **MillionerAZ** - [Play Store Link](mailto:https://play.google.com/store/apps/details?id=com.fr13nd_7.MillionerAZ&hl=en)
-- **InformaticsAZ** - [Play Store Link](mailto:https://play.google.com/store/apps/details?id=com.fr13nd_7.InformaticsAZ&hl=en)
+- **MillionerAZ** - [Play Store Link](https://play.google.com/store/apps/details?id=com.fr13nd_7.MillionerAZ&hl=en)
+- **InformaticsAZ** - [Play Store Link](https://play.google.com/store/apps/details?id=com.fr13nd_7.InformaticsAZ&hl=en)
 ## 💬 Connect with Me  
 I’d love to collaborate or chat about tech:  
 - **Email:** [abdulla.abdullazade.2008@gmail.com](mailto:abdulla.abdullazade.2008@gmail.com)  
