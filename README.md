@@ -75,23 +75,11 @@ I’d love to collaborate or chat about tech:
   </a> 
   <a href="https://firebase.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
-</a>
-
-<a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/linux-kali.svg" alt="Kali Linux" width="40" height="40"/> 
-</a>
-
+  </a>
 <a href="https://linuxmint.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Mint" width="40" height="40"/> 
 </a>
 
-<a href="https://www.deepin.org/en/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/deepin/deepin-original.svg" alt="Deepin" width="40" height="40"/> 
-</a>
-
-<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows10/windows10-original.svg" alt="Windows 10" width="40" height="40"/> 
-</a>
 
  
 </p>
