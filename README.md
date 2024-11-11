@@ -38,6 +38,9 @@ I’d love to collaborate or chat about tech:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  
+  <a href="https://www.developers.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android " width="40" height="40"/> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
