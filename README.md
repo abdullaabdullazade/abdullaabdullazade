@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdulla! (fr13nd_7)  
+# 👋 Hi, I’m Abdulla!   
 I’m passionate about coding and constantly improving my skills in Backend and Mobile Development.
 
 ## 🌟 About Me  
