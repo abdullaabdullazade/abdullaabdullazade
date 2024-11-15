@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdulla!   
+# 👋 Hi, I’m Abdulla!   (abdullaxows) 
 I’m passionate about coding and constantly improving my skills in Backend and Mobile Development.
 
 ## 🌟 About Me  
