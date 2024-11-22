@@ -12,7 +12,7 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 - **Tools:** Git
 
 ## 🌱 Learning Journey  
-- Focusing on building mobile apps with Kotlin/Jetpack 
+- Focusing on learning MERN Stack Technologies
 - Exploring C++ for competitive programming
 
 
