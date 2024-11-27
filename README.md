@@ -21,7 +21,7 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 - **InformaticsAZ** - [Play Store Link](https://play.google.com/store/apps/details?id=com.fr13nd_7.InformaticsAZ&hl=en)
 ## 💬 Connect with Me  
 I’d love to collaborate or chat about tech:  
-- **Email:** [abdulla.abdullazade.2008@gmail.com](mailto:abdulla.abdullazade.2008@gmail.com)  
+- **Email:** [abdulla.abdullazade.2008@gmail.com](mailto:metalninjas1@gmail.com)  
 - **Website:** [My Portfolio](https://abdulla-abdullazade.vercel.app/)
 
 ## 📈 GitHub Stats  
