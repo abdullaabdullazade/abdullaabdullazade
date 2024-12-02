@@ -59,9 +59,8 @@ I’d love to collaborate or chat about tech:
 ## ⏱️ Time
 
 <p align="left">
-    <a href="https://wakatime.com/@abdullaabdullazade">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullaabdullazade&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repos" width="95%" alt="activity graph">
-    </a>
+<a href="https://wakatime.com/@abdullaabdullazade"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullaabdullazade&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Abdulla's Wakatime stats"/></a>
+<a href="https://github.com/abdullaabdullazade?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=abdullaabdullazade&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Abdulla's trophy stats"/></a>
 </p>
 
 
