@@ -58,11 +58,11 @@ I’d love to collaborate or chat about tech:
 
 ## ⏱️ Time
 
-<a href="https://github.com/abdullaabdullazade?tab=repositories">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abdullaabdullazade&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@abdullaabdullazade's github-readme-stats"/>
-</a>
-
-
+<p align="left">
+    <a href="https://wakatime.com/@abdullaabdullazade">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullaabdullazade&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repos" width="95%" alt="activity graph">
+    </a>
+</p>
 
 
 
