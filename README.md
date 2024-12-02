@@ -71,6 +71,10 @@ I’d love to collaborate or chat about tech:
   <a href="https://www.javascript.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
   </a>
+   <a href="https://nodejs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="60" height="60" />
+  </a>
+  
   <a href="https://cplusplus.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="60" />
   </a>
@@ -85,6 +89,9 @@ I’d love to collaborate or chat about tech:
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+  </a>
+   <a  target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite3" width="60" height="60" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
@@ -113,7 +120,9 @@ I’d love to collaborate or chat about tech:
    <a  target="_blank">
     <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="60" height="60" />
   </a>
-
+ <a  target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60" />
+  </a>
    <a  target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="60" height="60" />
   </a>
