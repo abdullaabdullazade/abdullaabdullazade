@@ -58,25 +58,25 @@ I’d love to collaborate or chat about tech:
 ## 🚀 Languages and Tools
 <p align="left">
   <a href="https://www.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=android" alt="Android" width="60" height="60" />
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
   </a>
   <a href="https://www.javascript.com" target="_blank">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
   </a>
   <a href="https://cplusplus.com" target="_blank">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="60" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
   </a>
   <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="60" height="60" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
@@ -85,7 +85,7 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
   </a>
   
   <a href="https://www.linux.org/" target="_blank">
