@@ -91,4 +91,18 @@ I’d love to collaborate or chat about tech:
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
   </a>
+
+   <a href="firebase.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60" />
+  </a>
+
+
+   <a  target="_blank">
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="60" height="60" />
+  </a>
+
+
+   <a  target="_blank">
+    <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="60" height="60" />
+  </a>
 </p>
