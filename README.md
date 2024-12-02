@@ -93,6 +93,10 @@ I’d love to collaborate or chat about tech:
    <a  target="_blank">
     <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite3" width="60" height="60" />
   </a>
+   <a href="firebase.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60" />
+  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
   </a>
@@ -104,10 +108,7 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
   </a>
 
-   <a href="firebase.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60" />
-  </a>
-
+  
 
    <a  target="_blank">
     <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="60" height="60" />
