@@ -42,7 +42,11 @@ I’d love to collaborate or chat about tech:
   <a href="https://www.developers.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android " width="40" height="40"/> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/> 
   </a>  
   <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
