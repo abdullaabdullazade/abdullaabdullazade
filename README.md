@@ -56,12 +56,6 @@ I’d love to collaborate or chat about tech:
 ![Visitor Count](https://komarev.com/ghpvc/?username=abdullaabdullazade)
 
 
-## ⏱️ Time
-
-<p align="left">
-<a href="https://wakatime.com/@abdullaabdullazade"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullaabdullazade&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Abdulla's Wakatime stats"/></a>
-<a href="https://github.com/abdullaabdullazade?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=abdullaabdullazade&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Abdulla's trophy stats"/></a>
-</p>
 
 
 
