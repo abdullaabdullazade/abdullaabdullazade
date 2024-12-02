@@ -101,7 +101,7 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="60" height="60" />
   </a>
   <a  target="_blank">
-   <img src="https://skillicons.dev/icons?i=intellijidea" alt="Intellij Idea" width="60" height="60" />
+   <img src="https://skillicons.dev/icons?i=idea" alt="Intellij Idea" width="60" height="60" />
   </a>
 
 
