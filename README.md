@@ -113,3 +113,7 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="60" height="60" />
   </a>
 </p>
+
+
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
