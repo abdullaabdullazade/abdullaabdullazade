@@ -55,6 +55,18 @@ I’d love to collaborate or chat about tech:
 ## 👥 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=abdullaabdullazade)
 
+
+## ⏱️ Time
+
+<a href="https://github.com/abdullaabdullazade?tab=repositories">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abdullaabdullazade&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@abdullaabdullazade's github-readme-stats"/>
+</a>
+
+
+
+
+
+
 ## 🚀 Languages and Tools
 <p align="left">
   <a href="https://www.android.com" target="_blank">
@@ -113,6 +125,8 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="60" height="60" />
   </a>
 </p>
+
+
 
 
 
