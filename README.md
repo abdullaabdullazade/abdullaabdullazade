@@ -61,7 +61,7 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Nodejs" />
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=reactnative" alt="react" width="60" height="60"/> 
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-native" width="60" height="60"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="60" height="60"/> 
