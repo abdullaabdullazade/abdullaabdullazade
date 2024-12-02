@@ -38,60 +38,105 @@ I’d love to collaborate or chat about tech:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
+  <a href="https://www.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60"/> 
+  </a>
+  <br>Android
   
-  <a href="https://www.developers.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android " width="60" height="60"/> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="60" height="60"/> 
-  </a>  
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/> 
+  </a>
+  <br>Python
   
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/> 
-  </a>  
+  </a>
+  <br>JavaScript
+  
   <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> 
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="60" height="60"/> 
-  </a> 
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60"/> 
+  </a>
+  <br>C++
+  
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" width="60" height="60"/> 
-  </a> 
-  <a href="https://codeforces.com/profile/XXXBATTLEMCXXX" target="_blank" rel="noreferrer"> 
-    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.svg" alt="codeforcesaccount" width="40" height="60"/> 
-  </a> 
-   <a href="nodejs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Nodejs" />
-  </a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/> 
+  </a>
+  <br>Express.js
+
+  <a href="https://codeforces.com" target="_blank" rel="noreferrer"> 
+    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.svg" alt="Codeforces" width="60" height="60"/> 
+  </a>
+  <br>Codeforces
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/> 
+  </a>
+  <br>Node.js
+  
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-native" width="60" height="60"/> 
-  </a> 
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="60" height="60"/> 
+  </a>
+  <br>React Native
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="60" height="60"/> 
-  </a> 
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/> 
+  </a>
+  <br>MySQL
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="60" height="60"/> 
-  </a> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/> 
+  </a>
+  <br>MongoDB
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/> 
-  </a> 
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/> 
+  </a>
+  <br>Git
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/> 
-  </a> 
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60"/> 
+  </a>
+  <br>HTML5
 
-  <a href="https://firebase.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="60" height="60"/> 
-  </a> 
-      
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60"/> 
+  </a>
+  <br>Firebase
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VsCode" />
-  </a> 
-<a href="https://linuxmint.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Mint" width="60" height="60"/> 
-</a>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/> 
+  </a>
+  <br>VS Code
 
-       
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="60" height="60"/> 
+  </a>
+  <br>PyCharm
 
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="60" height="60"/> 
+  </a>
+  <br>WebStorm
 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="60" height="60"/> 
+  </a>
+  <br>IntelliJ IDEA
 
- 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio" width="60" height="60"/> 
+  </a>
+  <br>Android Studio
+
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60"/> 
+  </a>
+  <br>Visual Studio
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> 
+  </a>
+  <br>Linux
+
 </p>
-
-
