@@ -58,7 +58,7 @@ I’d love to collaborate or chat about tech:
 ## 🚀 Languages and Tools
 <p align="left">
   <a href="https://www.android.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=android" alt="Android" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="60" height="60" />
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
@@ -104,5 +104,9 @@ I’d love to collaborate or chat about tech:
 
    <a  target="_blank">
     <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="60" height="60" />
+  </a>
+
+   <a  target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="60" height="60" />
   </a>
 </p>
