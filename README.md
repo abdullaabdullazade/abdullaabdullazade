@@ -9,7 +9,7 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 - **Languages:** Python, JavaScript, C++
 - **Frameworks:** React Native, Pyrogram, NodeJS
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, VS Code, Android Studio, IntelliJ IDEA
+- **Tools:** Git, VS Code, Android Studio, IntelliJ IDEA, Pycharm, WebStorm
 
 ## 🌱 Learning Journey
 - Focusing on learning Kotlin/Jetpack
@@ -56,7 +56,7 @@ I’d love to collaborate or chat about tech:
 ![Visitor Count](https://komarev.com/ghpvc/?username=abdullaabdullazade)
 
 ## 🚀 Languages and Tools
-<p align="center">
+<p align="left">
   <a href="https://www.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60" />
   </a>
@@ -84,7 +84,11 @@ I’d love to collaborate or chat about tech:
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
   </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+  </a>
+  
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
   </a>
 </p>
