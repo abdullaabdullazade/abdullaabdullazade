@@ -108,6 +108,15 @@ I’d love to collaborate or chat about tech:
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
   </a>
+
+<a href="https://gitlab.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="60" height="60" />
+  </a>
+
+
+<a href="https://postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" />
+  </a>
   
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
