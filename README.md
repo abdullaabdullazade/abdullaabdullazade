@@ -7,12 +7,12 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 
 ## 💡 Tech Stack
 - **Languages:** Python, JavaScript, C++
-- **Frameworks:** React Native, Pyrogram, NodeJS
+- **Frameworks:** React Native, Pyrogram, NodeJS,ReactJS,ExpressJS
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Android Studio, IntelliJ IDEA, Pycharm, WebStorm
 
 ## 🌱 Learning Journey
-- Focusing on learning Kotlin/Jetpack
+- Focusing on learning NodeJS
 - Exploring C++ for competitive programming
 
 ## 👾 My Play Store Projects
