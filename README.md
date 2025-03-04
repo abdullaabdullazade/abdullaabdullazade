@@ -46,7 +46,7 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 ## 💬 Connect with Me
 I’d love to collaborate or chat about tech:
 - **Email:** [abdulla.abdullazade.2008@gmail.com](mailto:abdulla.abdullazade.2008@gmail.com)
-- **Website:** [My Portfolio](https:/www.abdulladev.site/)
+- **Website:** [My Portfolio](https://www.abdulladev.site/)
 
 ## 🎮 Fun Facts
 - **Hobbies:** Staying updated with tech trends and contributing to open-source projects
