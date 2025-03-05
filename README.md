@@ -83,10 +83,6 @@ I’d love to collaborate or chat about tech:
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
   </a>
   
-
-   <a href="https://pyrogram.org/" target="_blank">
-    <img src="https://pyrogram.org/img/pyrogram-logo.png" alt="Pyrogram" width="60" height="60" />
-  </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="60" height="60" />
   </a>
