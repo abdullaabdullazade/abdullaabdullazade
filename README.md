@@ -17,8 +17,8 @@ I’m passionate about coding and constantly improving my skills in Backend and 
 - Exploring C++ for competitive programming
 
 ## 👾 My Play Store Projects
-- **MillionerAZ** - [Play Store Link](https://play.google.com/store/apps/details?id=com.fr13nd_7.MillionerAZ&hl=en)
-- **InformaticsAZ** - [Play Store Link](https://play.google.com/store/apps/details?id=com.fr13nd_7.InformaticsAZ&hl=en)
+- **MillionerAZ** - [Play Store Link](https://apkpure.net/millioneraz/com.fr13nd_7.MillionerAZ)
+- **InformaticsAZ** - [Play Store Link](https://apkpure.net/millioneraz/com.fr13nd_7.InformaticsAZ)
 
 ## 📈 GitHub Stats
 <p align="center">
