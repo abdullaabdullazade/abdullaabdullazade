@@ -15,7 +15,7 @@ I'm passionate about **Backend Development**, **Mobile Apps**, and **Cybersecuri
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-`Python` • `JavaScript` • `C++`
+`Python` • `JavaScript` • `C++` • `TypeScript`
 
 ### 🧩 Frameworks & Libraries
 `React Native` • `React.js` • `Express.js` • `Node.js` • `Pyrogram` • `Selenium`
@@ -23,8 +23,6 @@ I'm passionate about **Backend Development**, **Mobile Apps**, and **Cybersecuri
 ### 🗃️ Databases
 `MongoDB` • `MySQL` • `SQLite`
 
-### 🧰 Tools & IDEs
-`Git` • `Postman` • `Firebase` • `VS Code` • `PyCharm` • `Android Studio` • `WebStorm` • `IntelliJ IDEA` • `Linux`
 
 ---
 
