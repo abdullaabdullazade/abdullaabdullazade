@@ -6,7 +6,7 @@ I'm passionate about **Backend Development**, **Mobile Apps**, and **Cybersecuri
 
 ## 🌟 About Me
 
-- 🔭 Currently learning: **Node.js**, **C++**, **TypeScript**
+- 🔭 Currently learning: **Node.js**, **TypeScript**
 - 🚀 Interests: **Efficient backend systems**, **practical mobile apps**, **CTF challenges**
 - 💼 Available for collaboration on tech projects
 
