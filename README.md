@@ -1,95 +1,79 @@
-# 👋 Hi, I’m Abdulla! (`abdullaxows`)
+# 👋 Hi, I’m Abdulla! (@abdullaxows)
 
-I'm passionate about **Backend Development**, **Mobile Apps**, and **Cybersecurity**. Always learning, always building.
+### ⚡ About Me
 
----
-
-## 🌟 About Me
-
-- 🔭 Currently learning: **Node.js**, **TypeScript**
-- 🚀 Interests: **Efficient backend systems**, **practical mobile apps**, **CTF challenges**
-- 💼 Available for collaboration on tech projects
+I'm a passionate developer focused on **Backend Development**, **Mobile Apps**, and **Cybersecurity**. My goal is to build efficient, scalable backend systems and practical mobile applications that solve real-world problems. I'm constantly learning, enjoy tackling **CTF challenges**, and am always open to collaborating on innovative tech projects.
 
 ---
 
-## 💻 Tech Stack
+### 🔗 Connect with Me
 
-### 🧠 Languages
-`Python` • `JavaScript` • `C++` • `TypeScript`
-
-### 🧩 Frameworks & Libraries
-`React Native` • `React.js` • `Express.js` • `Node.js` • `Pyrogram` • `Selenium`
-
-### 🗃️ Databases
-`MongoDB` • `MySQL` • `SQLite`
-
-
----
-
-
-## 📱 My Apps on Play Store
-
-- 🎮 [MillionerAZ](https://apkpure.net/millioneraz/com.fr13nd_7.MillionerAZ)
-- 📘 [InformaticsAZ](https://apkpure.net/millioneraz/com.fr13nd_7.InformaticsAZ)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abdullaabdullazade&theme=radical&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullaabdullazade&theme=tokyonight&hide_border=true" width="48%" />
+<p align="left">
+  <a href="https://www.abdulladev.site" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:abdulla.abdullazade.2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullaabdullazade&theme=react-dark&hide_border=true" width="95%" />
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+#### 🌐 Frontend & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+#### 🗃️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+#### 🔧 Other Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Pyrogram-6495ED?style=for-the-badge" alt="Pyrogram"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullaabdullazade&theme=onestar&no-frame=true&column=3&row=2" width="60%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abdullaabdullazade&theme=radical&show_icons=true&count_private=true&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullaabdullazade&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🌍 Connect with Me
-
-- 📧 Email: [abdulla.abdullazade.2008@gmail.com](mailto:abdulla.abdullazade.2008@gmail.com)
-- 🌐 Website: [www.abdulladev.site](https://www.abdulladev.site)
-
----
-
-## 🧠 Fun Facts
-
-- 🧪 I enjoy experimenting with CTFs, hacking tools, and cybersecurity labs.
-- 🧱 I build for both backend robustness and frontend elegance.
-- 🎯 Favorite projects are ones solving **real-world problems**.
-
----
-
-## 🚀 Languages & Tools Icons
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,nodejs,express,react,mongodb,mysql,sqlite,firebase,git,github,gitlab,postman,linux,androidstudio,pycharm,webstorm,idea,vscode" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullaabdullazade" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullaabdullazade&theme=onestar&no-frame=true&column=7&row=1" width="90%" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
